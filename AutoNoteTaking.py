@@ -31,7 +31,7 @@ Mbox('All Set!', 'Your transcript will be ready in minutes', 1)
 
 # store global constants
 headers = {
-   "authorization": "f753c41b0b21427fade5707f98825f60",
+   "authorization": "API key",
    "content-type": "application/json"
 }
 transcript_endpoint = "https://api.assemblyai.com/v2/transcript"
